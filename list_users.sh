@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#################
+# About: Script to list out all the users with read access to a particular GitHub Repo in an organization
+# Inputs: Organization name and Repo Name
+# Author: vamsi
+################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
